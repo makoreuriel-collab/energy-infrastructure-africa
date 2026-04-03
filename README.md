@@ -6,7 +6,7 @@ Exploring electricity access across African countries, with a focus on the urban
 
 Access to electricity is a key driver of economic and social development. It supports education, healthcare, business activity, and overall quality of life. Despite progress over the past two decades, many African countries still face significant challenges in expanding reliable energy access, particularly in rural areas.
 
-This project uses data from the World Bank and IEA to examine electricity access across selected African countries, comparing national, urban, and rural trends, and placing regional progress in a global context.
+This project analyzes electricity access across selected African countries using data from the World Bank and IEA. Using Python, I visualized national, urban, and rural trends to better understand how access varies across countries and regions.
 
 ## Objective
 
@@ -38,4 +38,4 @@ Energy access is central to economic development and is a key priority for devel
 
 ## Output
 
-The project generates a visualization comparing electricity access rates across countries and regions.
+The project generates visualizations using Python to compare electricity access across countries and regions.
